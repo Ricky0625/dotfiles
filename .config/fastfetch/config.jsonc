@@ -57,10 +57,6 @@
       "type": "memory"
     },
     {
-      "key": "󰾴 ",
-      "type": "swap"
-    },
-    {
       "key": " ",
       "type": "diskHome"
     }
