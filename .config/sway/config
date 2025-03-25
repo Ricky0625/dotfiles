@@ -16,7 +16,7 @@ set $right l
 set $term ghostty
 
 # Your preferred application launcher
-set $menu wmenu-run
+set $menu wofi --show run
 
 ### Output configuration
 
